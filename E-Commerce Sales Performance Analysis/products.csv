@@ -1,0 +1,201 @@
+product_id,name,category,price,stock_quantity
+1,Premium Seat Cover,Automotive,0.0,216
+2,Advanced Lipstick,Beauty,0.0,87
+3,Advanced Remote Car,Toys,0.0,80
+4,Pro Adapter,Electronics,0.0,274
+5,Classic Running Shoes,Sports,0.0,490
+6,Deluxe Workbook,Books,0.0,354
+7,Classic Monitor,Electronics,0.0,183
+8,Advanced Tape,Office,0.0,230
+9,Eco Adapter,Electronics,0.0,91
+10,Advanced Sneakers,Clothing,0.0,419
+11,Compact Seeds,Garden,5.99,132
+12,Portable Stapler,Office,479.5,139
+13,Portable Jump Rope,Sports,372.54,142
+14,Premium Water Bottle,Sports,392.49,355
+15,Compact Scarf,Clothing,60.26,241
+16,Premium Watering Can,Garden,318.84,488
+17,Pro Serum,Beauty,175.15,330
+18,Advanced Plant Pot,Garden,55.96,333
+19,Advanced Shampoo,Beauty,451.12,334
+20,Classic Shovel,Garden,5.73,481
+21,Premium Air Freshener,Automotive,240.6,479
+22,Ultra Tape,Office,317.25,21
+23,Premium Dash Cam,Automotive,20.39,322
+24,Premium Solar Light,Garden,322.11,443
+25,Compact Jeans,Clothing,204.05,270
+26,Advanced Scale,Home & Kitchen,277.38,333
+27,Deluxe Mask,Beauty,166.49,484
+28,Premium Tablet,Electronics,77.92,259
+29,Smart Binder,Office,96.01,331
+30,Deluxe Air Freshener,Automotive,42.25,276
+31,Eco Adapter,Electronics,344.28,368
+32,Eco Pen Set,Office,89.89,241
+33,Eco Board Game,Toys,12.7,16
+34,Ultra Plant Pot,Garden,123.85,61
+35,Premium Phone Mount,Automotive,497.16,215
+36,Deluxe Resistance Band,Sports,138.32,166
+37,Eco Stapler,Office,322.75,171
+38,Compact Plant Pot,Garden,45.21,5
+39,Ultra Lipstick,Beauty,85.34,448
+40,Pro Biography,Books,300.35,299
+41,Ultra Hoodie,Clothing,231.97,127
+42,Ultra Cable,Electronics,455.19,291
+43,Eco Car Mat,Automotive,128.71,192
+44,Premium Phone Mount,Automotive,459.55,150
+45,Eco Backpack,Sports,70.81,391
+46,Premium Foundation,Beauty,180.66,357
+47,Deluxe Card Game,Toys,378.18,358
+48,Compact Shovel,Garden,390.55,142
+49,Pro Speaker,Electronics,414.4,139
+50,Portable Gloves,Garden,63.83,447
+51,Compact Scissors,Office,128.14,189
+52,Eco Toner,Beauty,80.37,101
+53,Pro Scale,Home & Kitchen,24.03,206
+54,Advanced Tool Kit,Automotive,485.23,208
+55,Advanced Serum,Beauty,69.03,297
+56,Advanced Sunscreen,Beauty,484.06,437
+57,Ultra Blender,Home & Kitchen,475.9,95
+58,Portable Tape,Office,96.34,492
+59,Advanced Kite,Toys,68.76,196
+60,Eco Action Figure,Toys,483.42,485
+61,Advanced Tape,Office,92.58,456
+62,Eco Workbook,Books,492.71,465
+63,Ultra Binder,Office,457.83,308
+64,Pro Seeds,Garden,163.71,283
+65,Eco Seat Cover,Automotive,259.81,363
+66,Compact Tool Kit,Automotive,97.71,469
+67,Premium Remote Car,Toys,65.1,130
+68,Ultra Plant Pot,Garden,264.01,443
+69,Advanced Conditioner,Beauty,52.34,102
+70,Portable Desk Organizer,Office,488.14,306
+71,Ultra Jeans,Clothing,204.21,15
+72,Classic Monitor,Electronics,152.26,334
+73,Eco Phone Mount,Automotive,420.84,370
+74,Deluxe Hoodie,Clothing,427.19,445
+75,Advanced Serum,Beauty,112.77,60
+76,Pro Cable,Electronics,406.71,253
+77,Ultra Dictionary,Books,237.69,16
+78,Advanced Highlighter,Office,220.22,167
+79,Deluxe Board Game,Toys,372.43,341
+80,Deluxe Blender,Home & Kitchen,168.11,496
+81,Premium Lamp,Home & Kitchen,95.41,172
+82,Premium Foam Roller,Sports,466.58,218
+83,Advanced Action Figure,Toys,313.08,133
+84,Advanced Watering Can,Garden,66.93,480
+85,Portable Notebook,Office,326.27,438
+86,Eco Dictionary,Books,70.2,2
+87,Compact Sneakers,Clothing,126.77,478
+88,Compact Adapter,Electronics,207.2,51
+89,Eco Rake,Garden,169.94,245
+90,Deluxe Blender,Home & Kitchen,158.26,407
+91,Compact Lipstick,Beauty,64.66,83
+92,Pro Guide,Books,330.04,246
+93,Smart Tape,Office,52.98,26
+94,Compact Wiper Blade,Automotive,102.24,86
+95,Compact Sneakers,Clothing,35.74,214
+96,Advanced Jeans,Clothing,483.17,75
+97,Advanced Workbook,Books,300.82,36
+98,Pro Highlighter,Office,244.72,107
+99,Premium Dash Cam,Automotive,152.64,94
+100,Deluxe Lipstick,Beauty,424.08,146
+101,Advanced Plant Pot,Garden,390.97,252
+102,Premium Play-Doh,Toys,376.15,273
+103,Ultra Doll,Toys,161.03,33
+104,Compact Speaker,Electronics,164.07,398
+105,Classic Scissors,Office,316.79,500
+106,Smart Hose,Garden,244.24,122
+107,Portable Pillow,Home & Kitchen,176.82,137
+108,Eco Journal,Books,485.94,18
+109,Classic Highlighter,Office,398.42,260
+110,Smart Webcam,Electronics,274.58,40
+111,Smart Cap,Clothing,133.98,367
+112,Eco Calendar,Office,128.19,341
+113,Eco T-Shirt,Clothing,325.07,420
+114,Premium Car Mat,Automotive,146.1,300
+115,Premium Resistance Band,Sports,162.87,159
+116,Portable Dress,Clothing,492.43,389
+117,Advanced Jump Rope,Sports,79.06,41
+118,Premium Seeds,Garden,296.34,201
+119,Premium Pan,Home & Kitchen,259.3,468
+120,Portable Watering Can,Garden,343.82,142
+121,Compact Cable,Electronics,272.54,77
+122,Smart Board Game,Toys,306.0,173
+123,Eco Dress,Clothing,347.56,363
+124,Pro Desk Organizer,Office,362.58,175
+125,Ultra Doll,Toys,32.47,97
+126,Compact Whiteboard,Office,135.51,10
+127,Portable Plant Pot,Garden,382.23,430
+128,Compact Puzzle,Toys,255.27,494
+129,Portable Scissors,Office,496.24,21
+130,Ultra Notebook,Office,489.63,366
+131,Advanced Gloves,Clothing,50.86,429
+132,Pro Serum,Beauty,50.48,348
+133,Eco Scale,Home & Kitchen,54.63,171
+134,Deluxe Solar Light,Garden,172.56,24
+135,Ultra Biography,Books,124.28,336
+136,Classic Gloves,Clothing,329.82,16
+137,Compact Shampoo,Beauty,77.64,160
+138,Advanced Gloves,Sports,340.67,243
+139,Deluxe Tire Gauge,Automotive,357.03,151
+140,Premium Seat Cover,Automotive,341.05,347
+141,Pro Knife Set,Home & Kitchen,224.68,32
+142,Eco Serum,Beauty,412.32,293
+143,Pro Workbook,Books,139.79,448
+144,Eco Oil Filter,Automotive,70.47,208
+145,Pro Toaster,Home & Kitchen,353.05,295
+146,Premium Lego Set,Toys,119.88,6
+147,Eco Knife Set,Home & Kitchen,371.23,154
+148,Ultra Webcam,Electronics,245.65,284
+149,Premium Dash Cam,Automotive,453.89,264
+150,Premium Lego Set,Toys,464.42,26
+151,Pro Puzzle,Toys,201.13,122
+152,Premium Lego Set,Toys,26.79,374
+153,Classic Watering Can,Garden,136.66,4
+154,Portable Binder,Office,64.74,440
+155,Advanced Yoga Mat,Sports,298.22,84
+156,Pro Headphones,Electronics,75.87,69
+157,Advanced Monitor,Electronics,172.79,352
+158,Compact Backpack,Sports,286.37,356
+159,Smart Desk Organizer,Office,429.45,294
+160,Eco Blender,Home & Kitchen,29.52,366
+161,Eco Plant Pot,Garden,70.86,495
+162,Smart Wiper Blade,Automotive,467.55,338
+163,Deluxe Planner,Books,490.83,302
+164,Premium Toaster,Home & Kitchen,146.49,285
+165,Deluxe Whiteboard,Office,463.24,115
+166,Classic Hose,Garden,280.93,322
+167,Classic Solar Light,Garden,299.65,178
+168,Portable Journal,Books,145.28,429
+169,Smart Toner,Beauty,490.27,80
+170,Advanced Toaster,Home & Kitchen,78.96,252
+171,Compact Notebook,Office,160.87,208
+172,Premium Doll,Toys,484.91,209
+173,Eco Jeans,Clothing,158.25,216
+174,Compact Headphones,Electronics,151.68,442
+175,Eco Scale,Home & Kitchen,12.94,100
+176,Classic Comic,Books,254.46,13
+177,Smart Hoodie,Clothing,342.04,34
+178,Pro Air Freshener,Automotive,214.46,414
+179,Smart Socks,Clothing,31.71,269
+180,Advanced Car Mat,Automotive,189.84,91
+181,Deluxe Serum,Beauty,108.55,302
+182,Deluxe Textbook,Books,285.75,28
+183,Deluxe Lego Set,Toys,110.83,348
+184,Compact Workbook,Books,31.94,370
+185,Classic Tool Kit,Automotive,467.12,40
+186,Advanced Solar Light,Garden,201.94,493
+187,Eco Eye Cream,Beauty,111.33,169
+188,Classic Card Game,Toys,121.35,451
+189,Advanced Textbook,Books,135.6,343
+190,Compact Watering Can,Garden,275.73,3
+191,Compact Novel,Books,387.14,496
+192,Compact Gloves,Sports,401.64,45
+193,Deluxe Seeds,Garden,428.49,412
+194,Advanced Jeans,Clothing,86.15,308
+195,Eco Textbook,Books,124.74,97
+196,Advanced Vacuum,Home & Kitchen,110.29,349
+197,Pro Pillow,Home & Kitchen,499.15,207
+198,Deluxe Moisturizer,Beauty,97.09,287
+199,Smart Pan,Home & Kitchen,382.73,417
+200,Compact Stuffed Animal,Toys,310.57,303
