@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Sales Performance Analysis
-### A SQL Portfolio Project | PostgreSQL · Tableu · Data Cleaning ·Visualization . Business Intelligence
+### A SQL Portfolio Project | PostgreSQL · Tableau · Data Cleaning ·Visualization . Business Intelligence
 
 ---
 
