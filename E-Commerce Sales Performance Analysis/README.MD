@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Sales Performance Analysis
-### A SQL Portfolio Project | PostgreSQL · Python · Data Cleaning · Business Intelligence
+### A SQL Portfolio Project | PostgreSQL · Tableu · Data Cleaning ·Visualization . Business Intelligence
 
 ---
 
@@ -124,11 +124,15 @@ ecommerce-sql-analysis/
 | Tool | Purpose |
 |------|---------|
 | **PostgreSQL** | Primary database and query engine |
-| **Python (pandas, matplotlib)** | Data loading, additional analysis, and chart generation |
+| **Tableau** | Data loading, additional analysis, and chart generation |
 | **GitHub** | Version control and portfolio hosting |
 
 ---
+## Visualization(Dashboard)
 
+https://public.tableau.com/views/E-COMMERCESALESPERFORMANCEDASHBOARD_17734629550190/E-COMMERCESALESDASHBOARD?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
 ## 💡 What I Learned
 
 - How to audit a real-world dataset for quality issues before running any analysis
